@@ -1,0 +1,74 @@
+[
+    {
+        "event_id": "EVT-michael.jones-2026-07-08T19:19:56.315898",
+        "timestamp": "2026-07-08T19:19:56.315898",
+        "user": "michael.jones",
+        "location": "Germany",
+        "device": "MacBook",
+        "application": "Salesforce",
+        "status": "SUCCESS"
+    },
+    {
+        "event_id": "EVT-admin.user-2026-07-08T19:20:03.335757",
+        "timestamp": "2026-07-08T19:20:03.335757",
+        "user": "admin.user",
+        "location": "Singapore",
+        "device": "iPhone",
+        "application": "VPN",
+        "status": "FAILURE"
+    },
+    {
+        "event_id": "EVT-sarah.wilson-2026-07-08T19:20:04.264884",
+        "timestamp": "2026-07-08T19:20:04.264884",
+        "user": "sarah.wilson",
+        "location": "Germany",
+        "device": "iPhone",
+        "application": "AWS Console",
+        "status": "SUCCESS"
+    },
+    {
+        "event_id": "EVT-michael.jones-2026-07-08T19:20:05.165995",
+        "timestamp": "2026-07-08T19:20:05.165995",
+        "user": "michael.jones",
+        "location": "India",
+        "device": "Windows Laptop",
+        "application": "GitHub",
+        "status": "SUCCESS"
+    },
+    {
+        "event_id": "EVT-sarah.wilson-2026-07-08T19:20:06.075740",
+        "timestamp": "2026-07-08T19:20:06.075740",
+        "user": "sarah.wilson",
+        "location": "Australia",
+        "device": "Android Phone",
+        "application": "VPN",
+        "status": "FAILURE"
+    },
+    {
+        "event_id": "EVT-john.doe-2026-07-08T20:13:32.279003",
+        "timestamp": "2026-07-08T20:13:32.279003",
+        "user": "john.doe",
+        "location": "Australia",
+        "device": "iPhone",
+        "application": "GitHub",
+        "status": "FAILURE"
+    },
+    {
+        "event_id": "EVT-alice.smith-2026-07-13T10:29:59.099374",
+        "timestamp": "2026-07-13T10:29:59.099374",
+        "user": "alice.smith",
+        "location": "Singapore",
+        "device": "iPhone",
+        "application": "Office365",
+        "status": "FAILURE"
+    },
+    {
+        "event_id": "EVT-michael.jones-2026-07-13T10:36:52.046255",
+        "timestamp": "2026-07-13T10:36:52.046255",
+        "user": "michael.jones",
+        "location": "Australia",
+        "device": "Android Phone",
+        "application": "AWS Console",
+        "status": "SUCCESS"
+    }
+]
